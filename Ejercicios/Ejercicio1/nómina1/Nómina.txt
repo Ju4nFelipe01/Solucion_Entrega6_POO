@@ -1,0 +1,45 @@
+Nombre = Juan Felipe
+Apellido = Muñoz Arango
+Cargo = Estratégico
+Género = Masculino
+Salario Día = 100000.0 $
+Días Trabajados = 29
+Otros Ingresos = 100000.0 $
+Pagos Salud = 50000.0 $
+Aportes Pensiones = 30000.0 $
+Nómina Empleado = 2920000.0 $
+========================================
+Nombre = Pepito
+Apellido = Peréz
+Cargo = Directivo
+Género = Masculino
+Salario Día = 100000.0 $
+Días Trabajados = 30
+Otros Ingresos = 800000.0 $
+Pagos Salud = 300000.0 $
+Aportes Pensiones = 600000.0 $
+Nómina Empleado = 2900000.0 $
+========================================
+Nombre = Malter Hugo
+Apellido = Arboleda
+Cargo = Directivo
+Género = Masculino
+Salario Día = 130000.0 $
+Días Trabajados = 30
+Otros Ingresos = 200000.0 $
+Pagos Salud = 300000.0 $
+Aportes Pensiones = 200000.0 $
+Nómina Empleado = 3600000.0 $
+========================================
+Nombre = Maria Salome
+Apellido = Perez Martinez
+Cargo = Operativo
+Género = Femenino
+Salario Día = 100000.0 $
+Días Trabajados = 31
+Otros Ingresos = 200000.0 $
+Pagos Salud = 100000.0 $
+Aportes Pensiones = 500000.0 $
+Nómina Empleado = 2700000.0 $
+========================================
+Total nómina = 12120000.0 $
